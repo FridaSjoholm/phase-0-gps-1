@@ -8,3 +8,6 @@
 [facebook](www.facebook.com)
 
 ![FridaSS](https://github.com/FridaSjoholm/phase-0-gps-1/blob/master/FridaSS.png)
+
+
+P.S. The Boogeyman is behind you
